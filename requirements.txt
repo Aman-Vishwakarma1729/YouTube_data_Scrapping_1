@@ -1,0 +1,13 @@
+FLASK
+flask_cors
+logging
+pandas
+selenium
+selenium.webdriver.chrome.options
+selenium.webdriver.common.by 
+time
+csv
+os
+chardet
+threading
+urllib3

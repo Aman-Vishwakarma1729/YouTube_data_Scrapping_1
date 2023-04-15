@@ -1,0 +1,336 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 10:58:34] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 10:58:34] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 10:58:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 11:07:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 11:07:29] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 11:14:55] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 11:14:56] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 11:14:56] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Located all the required element through Xpaths
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 11:38:29] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 11:38:29] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 11:38:29] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:https://www.youtube.com/watch?v=dVq8dLd5zK4
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:https://www.youtube.com/watch?v=9y6ruBLE7z0
+INFO:root:https://www.youtube.com/watch?v=yv4Gi792S8o
+INFO:root:https://www.youtube.com/watch?v=aPrSAvwuhTk
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:https://www.youtube.com/watch?v=tigMKfSBJ9E
+INFO:root:https://www.youtube.com/watch?v=2OrYDCb737E
+INFO:root:https://www.youtube.com/watch?v=U1FxvG4GNAY
+INFO:root:https://www.youtube.com/watch?v=t961YvjKH20
+INFO:root:https://www.youtube.com/watch?v=XA03UtMWbIA
+INFO:root:https://www.youtube.com/watch?v=9jfTn4lcLu4
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:https://www.youtube.com/watch?v=c_pKfD4UgFg
+INFO:root:https://www.youtube.com/watch?v=RWcwMNVdp9c
+INFO:root:https://www.youtube.com/watch?v=jzclZf2NaFM
+INFO:root:https://www.youtube.com/watch?v=hzwEXoQDNCs
+INFO:root:https://www.youtube.com/watch?v=0s6hAsFGxYE
+INFO:root:https://www.youtube.com/watch?v=YXRyMc_noiE
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:https://www.youtube.com/watch?v=PI1obes98Zc
+INFO:root:https://www.youtube.com/watch?v=16fUsD0M1-I
+INFO:root:https://www.youtube.com/watch?v=S0RySN5arvk
+INFO:root:https://www.youtube.com/watch?v=HzBhwxMrt8A
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:https://www.youtube.com/watch?v=60_B3haKADw
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:https://www.youtube.com/watch?v=46CNHP9wBAs
+INFO:root:https://www.youtube.com/watch?v=1Wk5gJtZ2sQ
+INFO:root:https://www.youtube.com/watch?v=iM_hVnElC-Q
+INFO:root:https://www.youtube.com/watch?v=Prly9d7LoAQ
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:https://www.youtube.com/watch?v=AvwBDiCWSEM
+INFO:root:https://www.youtube.com/watch?v=jQzKkMEaWFA
+INFO:root:https://www.youtube.com/watch?v=6weIshsiLlM
+INFO:root:https://www.youtube.com/watch?v=-osuIPJkPWg
+INFO:root:https://www.youtube.com/watch?v=VsKb_U2-Cx0
+INFO:root:None
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:['https://www.youtube.com/watch?v=YwxDKs7jNXs', 'https://www.youtube.com/watch?v=dVq8dLd5zK4', 'https://www.youtube.com/watch?v=9y6ruBLE7z0', 'https://www.youtube.com/watch?v=yv4Gi792S8o', 'https://www.youtube.com/watch?v=aPrSAvwuhTk']
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 18:35:01] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 18:35:01] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 18:35:02] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Window scrolled up by 500 px
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 18:43:08] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 18:43:08] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 18:43:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Window scrolled up by 500 px
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five video URLS
+INFO:root:['https://www.youtube.com/watch?v=YwxDKs7jNXs', 'https://www.youtube.com/watch?v=dVq8dLd5zK4', 'https://www.youtube.com/watch?v=9y6ruBLE7z0', 'https://www.youtube.com/watch?v=yv4Gi792S8o', 'https://www.youtube.com/watch?v=aPrSAvwuhTk']
+INFO:root:List of video URLS has been added to csv
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:None
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 18:50:14] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Apr/2023 18:50:14] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Window scrolled up by 500 px
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five video URLS
+INFO:root:['https://www.youtube.com/watch?v=YwxDKs7jNXs', 'https://www.youtube.com/watch?v=dVq8dLd5zK4', 'https://www.youtube.com/watch?v=9y6ruBLE7z0', 'https://www.youtube.com/watch?v=yv4Gi792S8o', 'https://www.youtube.com/watch?v=aPrSAvwuhTk']
+INFO:root:List of video URLS has been added to csv
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Window scrolled up by 500 px
+INFO:root:List of first five video URLS
+INFO:root:['https://www.youtube.com/watch?v=bXpeyKIVioA', 'https://www.youtube.com/watch?v=YwxDKs7jNXs', 'https://www.youtube.com/watch?v=dVq8dLd5zK4', 'https://www.youtube.com/watch?v=9y6ruBLE7z0', 'https://www.youtube.com/watch?v=yv4Gi792S8o']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:['Finally The Wait is Over\U0001f525 || Launching Foundation Channels in 5 Different Languages \U0001f929', 'How To Plan For Class-11th || Perfect Strategy \U0001f4af || A Complete Roadmap!!', 'Strategy to Crack NEET in 1st Attempt \U0001f4aa\U0001f4aa', 'How to start class 9th Maths \u2753\U0001f914 | Maths Strategy', 'Ritik Sir \u0928\u0947 Class 10th \u0915\u0940 First Class \u092e\u0947\u0902 \u0939\u0940, \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u094b \u0915\u0921\u093c\u0935\u093e \u0938\u091a \u092c\u0924\u093e \u0926\u093f\u092f\u093e \U0001f534\U0001f631 | UDAAN 2024']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:['8.1K views', '31K views', '55K views', '15K views', '62K views']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:['1 hour ago', '1 day ago', '4 days ago', '4 days ago', '5 days ago']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:['https://i.ytimg.com/vi/bXpeyKIVioA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOzp9nqa4JrbUusiSvFwadbExWrQ', 'https://i.ytimg.com/vi/YwxDKs7jNXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxBeqH2fPvxUA3N-qahvm2G-XRzA', 'https://i.ytimg.com/vi/dVq8dLd5zK4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHI4cIhoo7jkELZwDpddlQgdbp5A', 'https://i.ytimg.com/vi/9y6ruBLE7z0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqf6kzJXU74F0LwHkBeIvIDv_Vug', 'https://i.ytimg.com/vi/yv4Gi792S8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtCy5r9N3ro9wpbyQUiMLEBRFBkQ']
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:40:18] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:40:18] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:40:19] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Window scrolled up by 500 px
+INFO:root:['8.2K views', '31K views', '55K views', '15K views', '62K views']
+INFO:root:List of number of views on firt five video 
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of posting time of  first five videos
+INFO:root:['1 hour ago', '1 day ago', '4 days ago', '4 days ago', '5 days ago']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five thumbnail URLS
+INFO:root:['https://i.ytimg.com/vi/bXpeyKIVioA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOzp9nqa4JrbUusiSvFwadbExWrQ', 'https://i.ytimg.com/vi/YwxDKs7jNXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxBeqH2fPvxUA3N-qahvm2G-XRzA', 'https://i.ytimg.com/vi/dVq8dLd5zK4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHI4cIhoo7jkELZwDpddlQgdbp5A', 'https://i.ytimg.com/vi/9y6ruBLE7z0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqf6kzJXU74F0LwHkBeIvIDv_Vug', 'https://i.ytimg.com/vi/yv4Gi792S8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtCy5r9N3ro9wpbyQUiMLEBRFBkQ']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five video URLS
+INFO:root:['https://www.youtube.com/watch?v=bXpeyKIVioA', 'https://www.youtube.com/watch?v=YwxDKs7jNXs', 'https://www.youtube.com/watch?v=dVq8dLd5zK4', 'https://www.youtube.com/watch?v=9y6ruBLE7z0', 'https://www.youtube.com/watch?v=yv4Gi792S8o']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five video titles
+INFO:root:['Finally The Wait is Over\U0001f525 || Launching Foundation Channels in 5 Different Languages \U0001f929', 'How To Plan For Class-11th || Perfect Strategy \U0001f4af || A Complete Roadmap!!', 'Strategy to Crack NEET in 1st Attempt \U0001f4aa\U0001f4aa', 'How to start class 9th Maths \u2753\U0001f914 | Maths Strategy', 'Ritik Sir \u0928\u0947 Class 10th \u0915\u0940 First Class \u092e\u0947\u0902 \u0939\u0940, \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u094b \u0915\u0921\u093c\u0935\u093e \u0938\u091a \u092c\u0924\u093e \u0926\u093f\u092f\u093e \U0001f534\U0001f631 | UDAAN 2024']
+INFO:root:The data is saved in CSV format
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:45:46] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:45:46] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:45:47] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Window scrolled up by 500 px
+INFO:root:List of first five video URLS
+INFO:root:['https://www.youtube.com/watch?v=bXpeyKIVioA', 'https://www.youtube.com/watch?v=YwxDKs7jNXs', 'https://www.youtube.com/watch?v=dVq8dLd5zK4', 'https://www.youtube.com/watch?v=9y6ruBLE7z0', 'https://www.youtube.com/watch?v=yv4Gi792S8o']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five video titles
+INFO:root:['Finally The Wait is Over\U0001f525 || Launching Foundation Channels in 5 Different Languages \U0001f929', 'How To Plan For Class-11th || Perfect Strategy \U0001f4af || A Complete Roadmap!!', 'Strategy to Crack NEET in 1st Attempt \U0001f4aa\U0001f4aa', 'How to start class 9th Maths \u2753\U0001f914 | Maths Strategy', 'Ritik Sir \u0928\u0947 Class 10th \u0915\u0940 First Class \u092e\u0947\u0902 \u0939\u0940, \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u094b \u0915\u0921\u093c\u0935\u093e \u0938\u091a \u092c\u0924\u093e \u0926\u093f\u092f\u093e \U0001f534\U0001f631 | UDAAN 2024']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:['8.2K views', '31K views', '55K views', '15K views', '62K views']
+INFO:root:List of number of views on firt five video 
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of posting time of  first five videos
+INFO:root:['1 hour ago', '1 day ago', '4 days ago', '4 days ago', '5 days ago']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five thumbnail URLS
+INFO:root:['https://i.ytimg.com/vi/bXpeyKIVioA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOzp9nqa4JrbUusiSvFwadbExWrQ', 'https://i.ytimg.com/vi/YwxDKs7jNXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxBeqH2fPvxUA3N-qahvm2G-XRzA', 'https://i.ytimg.com/vi/dVq8dLd5zK4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHI4cIhoo7jkELZwDpddlQgdbp5A', 'https://i.ytimg.com/vi/9y6ruBLE7z0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqf6kzJXU74F0LwHkBeIvIDv_Vug', 'https://i.ytimg.com/vi/yv4Gi792S8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtCy5r9N3ro9wpbyQUiMLEBRFBkQ']
+INFO:root:The data is saved in CSV format
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:47:17] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:47:17] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:47:18] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Window scrolled up by 500 px
+INFO:root:['8.2K views', '31K views', '55K views', '15K views', '62K views']
+INFO:root:List of number of views on firt five video 
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of posting time of  first five videos
+INFO:root:['1 hour ago', '1 day ago', '4 days ago', '4 days ago', '5 days ago']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five thumbnail URLS
+INFO:root:['https://i.ytimg.com/vi/bXpeyKIVioA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOzp9nqa4JrbUusiSvFwadbExWrQ', 'https://i.ytimg.com/vi/YwxDKs7jNXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxBeqH2fPvxUA3N-qahvm2G-XRzA', 'https://i.ytimg.com/vi/dVq8dLd5zK4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHI4cIhoo7jkELZwDpddlQgdbp5A', 'https://i.ytimg.com/vi/9y6ruBLE7z0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqf6kzJXU74F0LwHkBeIvIDv_Vug', 'https://i.ytimg.com/vi/yv4Gi792S8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtCy5r9N3ro9wpbyQUiMLEBRFBkQ']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five video URLS
+INFO:root:['https://www.youtube.com/watch?v=bXpeyKIVioA', 'https://www.youtube.com/watch?v=YwxDKs7jNXs', 'https://www.youtube.com/watch?v=dVq8dLd5zK4', 'https://www.youtube.com/watch?v=9y6ruBLE7z0', 'https://www.youtube.com/watch?v=yv4Gi792S8o']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five video titles
+INFO:root:['Finally The Wait is Over\U0001f525 || Launching Foundation Channels in 5 Different Languages \U0001f929', 'How To Plan For Class-11th || Perfect Strategy \U0001f4af || A Complete Roadmap!!', 'Strategy to Crack NEET in 1st Attempt \U0001f4aa\U0001f4aa', 'How to start class 9th Maths \u2753\U0001f914 | Maths Strategy', 'Ritik Sir \u0928\u0947 Class 10th \u0915\u0940 First Class \u092e\u0947\u0902 \u0939\u0940, \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u094b \u0915\u0921\u093c\u0935\u093e \u0938\u091a \u092c\u0924\u093e \u0926\u093f\u092f\u093e \U0001f534\U0001f631 | UDAAN 2024']
+INFO:root:The data is saved in CSV format
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:48:21] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:48:21] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:48:21] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Window scrolled up by 500 px
+INFO:root:List of first five video URLS
+INFO:root:['https://www.youtube.com/watch?v=bXpeyKIVioA', 'https://www.youtube.com/watch?v=YwxDKs7jNXs', 'https://www.youtube.com/watch?v=dVq8dLd5zK4', 'https://www.youtube.com/watch?v=9y6ruBLE7z0', 'https://www.youtube.com/watch?v=yv4Gi792S8o']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five video titles
+INFO:root:['Finally The Wait is Over\U0001f525 || Launching Foundation Channels in 5 Different Languages \U0001f929', 'How To Plan For Class-11th || Perfect Strategy \U0001f4af || A Complete Roadmap!!', 'Strategy to Crack NEET in 1st Attempt \U0001f4aa\U0001f4aa', 'How to start class 9th Maths \u2753\U0001f914 | Maths Strategy', 'Ritik Sir \u0928\u0947 Class 10th \u0915\u0940 First Class \u092e\u0947\u0902 \u0939\u0940, \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u094b \u0915\u0921\u093c\u0935\u093e \u0938\u091a \u092c\u0924\u093e \u0926\u093f\u092f\u093e \U0001f534\U0001f631 | UDAAN 2024']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:['8.2K views', '31K views', '55K views', '15K views', '62K views']
+INFO:root:List of number of views on firt five video 
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of posting time of  first five videos
+INFO:root:['1 hour ago', '1 day ago', '4 days ago', '4 days ago', '5 days ago']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five thumbnail URLS
+INFO:root:['https://i.ytimg.com/vi/bXpeyKIVioA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOzp9nqa4JrbUusiSvFwadbExWrQ', 'https://i.ytimg.com/vi/YwxDKs7jNXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxBeqH2fPvxUA3N-qahvm2G-XRzA', 'https://i.ytimg.com/vi/dVq8dLd5zK4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHI4cIhoo7jkELZwDpddlQgdbp5A', 'https://i.ytimg.com/vi/9y6ruBLE7z0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqf6kzJXU74F0LwHkBeIvIDv_Vug', 'https://i.ytimg.com/vi/yv4Gi792S8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtCy5r9N3ro9wpbyQUiMLEBRFBkQ']
+INFO:root:The data is saved in CSV format
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:49:38] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:49:38] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:49:39] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:root:Window scrolled up by 500 px
+INFO:root:['8.3K views', '31K views', '55K views', '15K views', '62K views']
+INFO:root:List of number of views on firt five video 
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of posting time of  first five videos
+INFO:root:['1 hour ago', '1 day ago', '4 days ago', '4 days ago', '5 days ago']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five thumbnail URLS
+INFO:root:['https://i.ytimg.com/vi/bXpeyKIVioA/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCOzp9nqa4JrbUusiSvFwadbExWrQ', 'https://i.ytimg.com/vi/YwxDKs7jNXs/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCxBeqH2fPvxUA3N-qahvm2G-XRzA', 'https://i.ytimg.com/vi/dVq8dLd5zK4/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHI4cIhoo7jkELZwDpddlQgdbp5A', 'https://i.ytimg.com/vi/9y6ruBLE7z0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqf6kzJXU74F0LwHkBeIvIDv_Vug', 'https://i.ytimg.com/vi/yv4Gi792S8o/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtCy5r9N3ro9wpbyQUiMLEBRFBkQ']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five video URLS
+INFO:root:['https://www.youtube.com/watch?v=bXpeyKIVioA', 'https://www.youtube.com/watch?v=YwxDKs7jNXs', 'https://www.youtube.com/watch?v=dVq8dLd5zK4', 'https://www.youtube.com/watch?v=9y6ruBLE7z0', 'https://www.youtube.com/watch?v=yv4Gi792S8o']
+WARNING:urllib3.connectionpool:Connection pool is full, discarding connection: localhost. Connection pool size: 1
+INFO:root:List of first five video titles
+INFO:root:['Finally The Wait is Over\U0001f525 || Launching Foundation Channels in 5 Different Languages \U0001f929', 'How To Plan For Class-11th || Perfect Strategy \U0001f4af || A Complete Roadmap!!', 'Strategy to Crack NEET in 1st Attempt \U0001f4aa\U0001f4aa', 'How to start class 9th Maths \u2753\U0001f914 | Maths Strategy', 'Ritik Sir \u0928\u0947 Class 10th \u0915\u0940 First Class \u092e\u0947\u0902 \u0939\u0940, \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u094b \u0915\u0921\u093c\u0935\u093e \u0938\u091a \u092c\u0924\u093e \u0926\u093f\u092f\u093e \U0001f534\U0001f631 | UDAAN 2024']
+INFO:root:The data is saved in CSV format
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:55:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [15/Apr/2023 20:55:25] "[36mGET /static/Result_Page_Style.css HTTP/1.1[0m" 304 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m

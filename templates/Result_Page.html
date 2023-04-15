@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en" >
+
+<head>
+  <meta charset="UTF-8">
+  <title>RESULT</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='Result_Page_Style.css') }}">
+
+</head>
+
+<body>
+
+  <div class="table-users">
+   <div class="header">Result</div>
+
+   <table cellspacing="0">
+      <tr>
+         <th>Video URL</th>
+         <th>Thumbnail URL</th>
+         <th>Title</th>
+         <th>Number of view</th>
+         <th>Time of posting</th>
+      </tr>
+      {% for row in data %}
+      <tr>
+         <td>{{ row['Video URL'] }}</td>
+         <td>{{ row['Thumbnail URL'] }}</td>
+         <td>{{ row['Title of videos'] }}</td>
+         <td>{{ row['Number of view'] }}</td>
+         <td>{{ row['Time of posting the video'] }}</td>
+      </tr>
+      {% endfor %}
+   </table>
+</div>
