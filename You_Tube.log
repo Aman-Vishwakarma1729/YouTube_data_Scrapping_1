@@ -383,3 +383,8 @@ INFO:root:List of first five video titles
 INFO:root:['Finally The Wait is Over\U0001f525 || Launching Foundation Channels in 5 Different Languages \U0001f929', 'How To Plan For Class-11th || Perfect Strategy \U0001f4af || A Complete Roadmap!!', 'Strategy to Crack NEET in 1st Attempt \U0001f4aa\U0001f4aa', 'How to start class 9th Maths \u2753\U0001f914 | Maths Strategy', 'Ritik Sir \u0928\u0947 Class 10th \u0915\u0940 First Class \u092e\u0947\u0902 \u0939\u0940, \u092c\u091a\u094d\u091a\u094b\u0902 \u0915\u094b \u0915\u0921\u093c\u0935\u093e \u0938\u091a \u092c\u0924\u093e \u0926\u093f\u092f\u093e \U0001f534\U0001f631 | UDAAN 2024']
 INFO:root:The data is saved in CSV format
 INFO:werkzeug:192.168.0.6 - - [16/Apr/2023 19:26:45] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.0.6:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m

@@ -7,7 +7,6 @@ import time
 import logging
 import pandas as pd
 import csv
-import os
 import chardet
 import threading
 import urllib3
