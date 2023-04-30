@@ -13,7 +13,7 @@ import urllib3
 
 http = urllib3.PoolManager(num_pools=10, maxsize=10, retries=3)
 
-logging.basicConfig(filename='You_Tube.log',level=logging.INFO)
+logging.basicConfig(filename='You_Tube.log',level=logging.CRITICAL)
 
 app = Flask(__name__)
 
@@ -34,7 +34,7 @@ def youtube_data():
            URL = "https://www.youtube.com/@PW-Foundation/videos"
            driver.get(URL)
         except Exception as e:
-           logging.info(e,'There is error in getting URL')
+           logging.error(e,'There is error in getting URL')
         else:
            logging.info('Sucessfully accessed ' ,URL)
         
@@ -59,7 +59,7 @@ def youtube_data():
                    element.get_attribute('href')
                    
                 except Exception as e:
-                   logging.info(e,"There is issue in getting video URL")
+                   logging.error(e,"There is issue in getting video URL")
 
                 else:
                    video_URL_list.append(element.get_attribute('href'))
@@ -78,7 +78,7 @@ def youtube_data():
                try:
                   element.get_attribute('src')
                except Exception as e:
-                  logging.info(e, "There is issue in getting thumnail URL")
+                  logging.error(e, "There is issue in getting thumnail URL")
                else:
                   thumbnail_URL_list.append(element.get_attribute('src'))
                   
@@ -94,7 +94,7 @@ def youtube_data():
                try:
                   element.text
                except Exception as e:
-                  logging.info(e,'There is issue in getting video title')
+                  logging.error(e,'There is issue in getting video title')
                else:
                   video_title.append(element.text)
             first_five_video_title = video_title[:5]
@@ -107,7 +107,7 @@ def youtube_data():
                 try:
                    element.text
                 except Exception as e:
-                   logging.info(e, "There is an issue in getting number of views")
+                   logging.error(e, "There is an issue in getting number of views")
                 else:
                   number_of_views.append(element.text)
             number_of_views_first_five_video = number_of_views[:5]
@@ -120,7 +120,7 @@ def youtube_data():
                 try:
                    element.text
                 except Exception as e:
-                   logging.info(e, "There is an issue in getting posting time")
+                   logging.error(e, "There is an issue in getting posting time")
                 else:
                    time_of_posting.append(element.text)
             posting_time_first_five_videos = time_of_posting[:5]
@@ -161,7 +161,7 @@ def youtube_data():
     
     except Exception as e:
            print(e,"Something Went Wrong")
-           logging.info(e)
+           logging.error(e)
     
     else:
         
@@ -180,7 +180,7 @@ def youtube_data():
                 for row in reader:
                    data.append(row)
         except Exception as e:
-           logging.info(e,"There is isue in encoding the test")
+           logging.error(e,"There is isue in encoding the test")
         
         
 
@@ -190,6 +190,8 @@ def youtube_data():
     
 
     return render_template("Result_Page.html" , data = data)
+
+logging.shutdown()
 
 if __name__=="__main__":
     app.run(host="0.0.0.0")   
